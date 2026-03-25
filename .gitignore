@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.gguf
+harpia-lora/
+harpia-gguf/
+harpia-gguf-f16/
+outputs/
+*.skill
+CLAUDE.md
