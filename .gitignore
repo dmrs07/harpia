@@ -9,4 +9,5 @@ harpia-gguf/
 harpia-gguf-f16/
 outputs/
 *.skill
+.claude/
 CLAUDE.md
